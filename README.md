@@ -13,12 +13,16 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 
 ### STEP 1:
+Load the NER dataset.
 
 ### STEP 2:
+Prepare the dataset for training.
 
 ### STEP 3:
+Create and train the model.
 
-Write your own steps
+### STEP 4:
+Predict the output for the test data and compare it with the actual value.
 
 ## PROGRAM
 
